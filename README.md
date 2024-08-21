@@ -47,7 +47,7 @@
 
 ## 联系方式
 
-- **开发者**：张君仪
+- **开发者**：Junyi Zhang
 - **邮箱**：zhangjy79@outlook.com
 - **GitHub**：[@yourusername](https://github.com/yourusername)
 
