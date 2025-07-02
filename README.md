@@ -19,10 +19,10 @@
 基于 GPT 模型驱动角色动画，使用 OpenAI 平台进行模型微调，从而增强了产品的智能化，提升了用户体验的沉浸感。
 
 ## 项目结构
-- /script: 包含动画，arduino控制以及语音
+- /script: 包含动画，arduino控制以及语音代码
 - /3Dmodel: 3D建模模型及blender文件
 - /Teccooler: TEC各类型比较数据文件及参数文件
-- /unity: 包含character模型
+- /unity: 包含character和Texture
   
 ### 软件与硬件环境
 - Python：3.11.4  
