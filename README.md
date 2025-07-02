@@ -41,13 +41,3 @@
 
 欢迎对本项目提出问题、建议或提交 pull request。如果你有更好的想法或发现任何问题，请随时与我联系。
 
-## 许可证
-
-本项目采用 [MIT License](LICENSE)。
-
-## 联系方式
-
-- **开发者**：Junyi Zhang
-- **邮箱**：zhangjy79@outlook.com
-- **GitHub**：[@yourusername](https://github.com/yourusername)
-
