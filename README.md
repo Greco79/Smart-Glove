@@ -19,26 +19,17 @@
 基于 GPT 模型驱动角色动画，使用 OpenAI 平台进行模型微调，从而增强了产品的智能化，提升了用户体验的沉浸感。
 
 ## 项目结构
-
-- `arduino/`：Arduino 温度传感器代码及硬件配置说明。
-- `python/`：嵌入式系统的 Python 脚本，包括数据采集和控制逻辑。
-- `unity/`：VR/AR 交互界面的 Unity3D 项目文件。
-- `blender/`：Blender 制作的 3D 模型及场景设计文件。
-- `gpt-model/`：GPT 模型的训练脚本及微调参数配置。
-
-## 使用说明
-
-1. **硬件设置**
-   - 使用 Arduino 进行温度传感器的设置，连接至指定的嵌入式系统。
-
-2. **软件环境**
-   - 安装 Python 及必要的依赖库，执行 `python/main.py` 进行数据采集和传感器控制。
-   - 打开 Unity3D 项目文件，进行 VR/AR 界面的测试和运行。
-   - 通过 OpenAI API 进行 GPT 模型的微调，并运行动画驱动脚本。
-
-3. **运行示例**
-   - 示例 1：如何通过温度传感器控制虚拟角色的动态变化。
-   - 示例 2：基于用户语音指令，如何使用 GPT 模型生成角色动画。
+- /script: 包含动画，arduino控制以及语音
+- /3Dmodel: 3D建模模型及blender文件
+- /Teccooler: TEC各类型比较数据文件及参数文件
+- /unity: 包含character模型
+  
+### 软件与硬件环境
+- Python：3.11.4  
+- Arduino IDE：2.0.5  
+- Blender：3.6.2  
+- Unity3D：2022.3 LTS 系列  
+- OpenAI SDK：openai>=0.27.0  。
 
 ## 贡献指南
 
